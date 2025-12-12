@@ -1,8 +1,4 @@
-# FastAPI-Redis
-FastAPI приложение для демонстрации работы с NoSQL Redis
-![GitHub top language](https://img.shields.io/github/languages/top/Mike0001-droid/FastAPI-Redis)
-## Цель задания 
-# Разработать микросервис для хранения и управления связками "телефон-адрес"
+# Микросервис для хранения и управления связками "телефон-адрес" ![GitHub top language](https://img.shields.io/github/languages/top/Mike0001-droid/FastAPI-Redis)
 Такой сервис может использоваться для кеширования часто запрашиваемой информации
 Задача позволяет оценить понимание REST API, работу с Redis как быстрым хранилищем данных, 
 и умение проектировать простые, но правильные решения.
